@@ -9,6 +9,20 @@ Predicting median house values from median income using linear regression built 
 - **Target:** `median_house_value`
 - **Feature used:** `median_income`
 
+### Loading the Dataset
+
+**In Colab or any remote environment** — use the raw GitHub URL directly in the notebook. Do not use `pd.read_csv("housing.csv")` as it will throw a `FileNotFoundError`:
+
+```python
+data = pd.read_csv("https://raw.githubusercontent.com/naimdotcom/ML-everything/main/housing_pricing_prediction_linear_regression/housing.csv")
+```
+
+**Locally** — after cloning the repo, the file is already present so the relative path works:
+
+```python
+data = pd.read_csv("housing.csv")
+```
+
 ---
 
 ## Visualizations
