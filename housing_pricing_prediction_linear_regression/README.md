@@ -14,7 +14,7 @@ Predicting median house values from median income using linear regression built 
 **In Colab or any remote environment** — use the raw GitHub URL directly in the notebook. Do not use `pd.read_csv("housing.csv")` as it will throw a `FileNotFoundError`:
 
 ```python
-data = pd.read_csv("https://raw.githubusercontent.com/naimdotcom/ML-everything/main/housing_pricing_prediction_linear_regression/housing.csv")
+data = pd.read_csv("https://raw.githubusercontent.com/naimdotcom/Machine-Learning/main/housing_pricing_prediction_linear_regression/housing.csv")
 ```
 
 **Locally** — after cloning the repo, the file is already present so the relative path works:
@@ -73,7 +73,7 @@ Train and test costs are nearly identical, confirming no overfitting.
 
 ## Run in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/naimdotcom/ML-everything/blob/main/housing_pricing_prediction_linear_regression/housing_pricing_prediction_linear_regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/naimdotcom/Machine-Learning/blob/main/housing_pricing_prediction_linear_regression/housing_pricing_prediction_linear_regression.ipynb)
 
 ## Run Locally
 

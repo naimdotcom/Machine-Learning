@@ -9,7 +9,7 @@ Thanks for your interest in contributing. This repo is a collection of beginner 
 ### 1. Fork & Clone
 
 ```bash
-git clone https://github.com/naimdotcom/ML-everything.git
+git clone https://github.com/naimdotcom/Machine-Learning.git
 cd ML-everything
 ```
 
@@ -89,7 +89,7 @@ One sentence description of what this project does.
 
 ## Run in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/naimdotcom/ML-everything/blob/main/YOUR_FOLDER/YOUR_NOTEBOOK.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/naimdotcom/Machine-Learning/blob/main/YOUR_FOLDER/YOUR_NOTEBOOK.ipynb)
 
 ## Run Locally
 
