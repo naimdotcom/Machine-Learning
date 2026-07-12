@@ -49,8 +49,8 @@ All datasets are centralized in the `data/` folder:
 |------|------|---------|
 | `housing.csv` | 1.4 MB | Housing Price Prediction |
 | `student-por.csv` | 93 KB | Student Score Result |
-| `AirQualityUCI - AirQualityUCI.csv` | 751 KB | Air Quality Predictor |
-| `GDSC2_fitted_dose_response_27Oct23 - Sheet1.csv` | 36 MB | Drug Sensitivity Predictors |
+| `AirQualityUCI.csv` | 751 KB | Air Quality Predictor |
+| `GDSC2_fitted_dose_response_27Oct23.csv` | 36 MB | Drug Sensitivity Predictors |
 | `GDSC2_fitted_dose_response_27Oct23.xlsx` | 21 MB | Source data |
 | `Concrete_Data.xls` | 125 KB | Concrete Strength Predictor |
 
@@ -85,8 +85,8 @@ All datasets are centralized in the `data/` folder:
 ├── data/
 │   ├── housing.csv
 │   ├── student-por.csv
-│   ├── AirQualityUCI - AirQualityUCI.csv
-│   ├── GDSC2_fitted_dose_response_27Oct23 - Sheet1.csv
+│   ├── AirQualityUCI.csv
+│   ├── GDSC2_fitted_dose_response_27Oct23.csv
 │   ├── GDSC2_fitted_dose_response_27Oct23.xlsx
 │   └── Concrete_Data.xls
 ├── CONTRIBUTING.md
